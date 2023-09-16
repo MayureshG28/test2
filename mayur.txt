@@ -1,0 +1,5 @@
+This file different from names.txt
+
+try to write something
+
+It's a text file
